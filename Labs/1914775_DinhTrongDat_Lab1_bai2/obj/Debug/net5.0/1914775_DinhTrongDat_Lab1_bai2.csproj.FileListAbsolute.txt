@@ -1,0 +1,16 @@
+E:\NAM3_KY2\lap-trinh-mang\Labs\1914775_DinhTrongDat_Lab1_bai2\obj\Debug\net5.0\1914775_DinhTrongDat_Lab1_bai2.csproj.AssemblyReference.cache
+E:\NAM3_KY2\lap-trinh-mang\Labs\1914775_DinhTrongDat_Lab1_bai2\obj\Debug\net5.0\1914775_DinhTrongDat_Lab1_bai2.GeneratedMSBuildEditorConfig.editorconfig
+E:\NAM3_KY2\lap-trinh-mang\Labs\1914775_DinhTrongDat_Lab1_bai2\obj\Debug\net5.0\1914775_DinhTrongDat_Lab1_bai2.AssemblyInfoInputs.cache
+E:\NAM3_KY2\lap-trinh-mang\Labs\1914775_DinhTrongDat_Lab1_bai2\obj\Debug\net5.0\1914775_DinhTrongDat_Lab1_bai2.AssemblyInfo.cs
+E:\NAM3_KY2\lap-trinh-mang\Labs\1914775_DinhTrongDat_Lab1_bai2\obj\Debug\net5.0\1914775_DinhTrongDat_Lab1_bai2.csproj.CoreCompileInputs.cache
+E:\NAM3_KY2\lap-trinh-mang\Labs\1914775_DinhTrongDat_Lab1_bai2\bin\Debug\net5.0\1914775_DinhTrongDat_Lab1_bai2.exe
+E:\NAM3_KY2\lap-trinh-mang\Labs\1914775_DinhTrongDat_Lab1_bai2\bin\Debug\net5.0\1914775_DinhTrongDat_Lab1_bai2.deps.json
+E:\NAM3_KY2\lap-trinh-mang\Labs\1914775_DinhTrongDat_Lab1_bai2\bin\Debug\net5.0\1914775_DinhTrongDat_Lab1_bai2.runtimeconfig.json
+E:\NAM3_KY2\lap-trinh-mang\Labs\1914775_DinhTrongDat_Lab1_bai2\bin\Debug\net5.0\1914775_DinhTrongDat_Lab1_bai2.runtimeconfig.dev.json
+E:\NAM3_KY2\lap-trinh-mang\Labs\1914775_DinhTrongDat_Lab1_bai2\bin\Debug\net5.0\1914775_DinhTrongDat_Lab1_bai2.dll
+E:\NAM3_KY2\lap-trinh-mang\Labs\1914775_DinhTrongDat_Lab1_bai2\bin\Debug\net5.0\ref\1914775_DinhTrongDat_Lab1_bai2.dll
+E:\NAM3_KY2\lap-trinh-mang\Labs\1914775_DinhTrongDat_Lab1_bai2\bin\Debug\net5.0\1914775_DinhTrongDat_Lab1_bai2.pdb
+E:\NAM3_KY2\lap-trinh-mang\Labs\1914775_DinhTrongDat_Lab1_bai2\obj\Debug\net5.0\1914775_DinhTrongDat_Lab1_bai2.dll
+E:\NAM3_KY2\lap-trinh-mang\Labs\1914775_DinhTrongDat_Lab1_bai2\obj\Debug\net5.0\ref\1914775_DinhTrongDat_Lab1_bai2.dll
+E:\NAM3_KY2\lap-trinh-mang\Labs\1914775_DinhTrongDat_Lab1_bai2\obj\Debug\net5.0\1914775_DinhTrongDat_Lab1_bai2.pdb
+E:\NAM3_KY2\lap-trinh-mang\Labs\1914775_DinhTrongDat_Lab1_bai2\obj\Debug\net5.0\1914775_DinhTrongDat_Lab1_bai2.genruntimeconfig.cache

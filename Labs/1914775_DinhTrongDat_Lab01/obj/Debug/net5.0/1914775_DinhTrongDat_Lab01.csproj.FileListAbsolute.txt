@@ -1,0 +1,16 @@
+E:\NAM3_KY2\lap-trinh-mang\Labs\1914775_DinhTrongDat_Lab01\bin\Debug\net5.0\1914775_DinhTrongDat_Lab01.exe
+E:\NAM3_KY2\lap-trinh-mang\Labs\1914775_DinhTrongDat_Lab01\bin\Debug\net5.0\1914775_DinhTrongDat_Lab01.deps.json
+E:\NAM3_KY2\lap-trinh-mang\Labs\1914775_DinhTrongDat_Lab01\bin\Debug\net5.0\1914775_DinhTrongDat_Lab01.runtimeconfig.json
+E:\NAM3_KY2\lap-trinh-mang\Labs\1914775_DinhTrongDat_Lab01\bin\Debug\net5.0\1914775_DinhTrongDat_Lab01.runtimeconfig.dev.json
+E:\NAM3_KY2\lap-trinh-mang\Labs\1914775_DinhTrongDat_Lab01\bin\Debug\net5.0\1914775_DinhTrongDat_Lab01.dll
+E:\NAM3_KY2\lap-trinh-mang\Labs\1914775_DinhTrongDat_Lab01\bin\Debug\net5.0\ref\1914775_DinhTrongDat_Lab01.dll
+E:\NAM3_KY2\lap-trinh-mang\Labs\1914775_DinhTrongDat_Lab01\bin\Debug\net5.0\1914775_DinhTrongDat_Lab01.pdb
+E:\NAM3_KY2\lap-trinh-mang\Labs\1914775_DinhTrongDat_Lab01\obj\Debug\net5.0\1914775_DinhTrongDat_Lab01.csproj.AssemblyReference.cache
+E:\NAM3_KY2\lap-trinh-mang\Labs\1914775_DinhTrongDat_Lab01\obj\Debug\net5.0\1914775_DinhTrongDat_Lab01.GeneratedMSBuildEditorConfig.editorconfig
+E:\NAM3_KY2\lap-trinh-mang\Labs\1914775_DinhTrongDat_Lab01\obj\Debug\net5.0\1914775_DinhTrongDat_Lab01.AssemblyInfoInputs.cache
+E:\NAM3_KY2\lap-trinh-mang\Labs\1914775_DinhTrongDat_Lab01\obj\Debug\net5.0\1914775_DinhTrongDat_Lab01.AssemblyInfo.cs
+E:\NAM3_KY2\lap-trinh-mang\Labs\1914775_DinhTrongDat_Lab01\obj\Debug\net5.0\1914775_DinhTrongDat_Lab01.csproj.CoreCompileInputs.cache
+E:\NAM3_KY2\lap-trinh-mang\Labs\1914775_DinhTrongDat_Lab01\obj\Debug\net5.0\1914775_DinhTrongDat_Lab01.dll
+E:\NAM3_KY2\lap-trinh-mang\Labs\1914775_DinhTrongDat_Lab01\obj\Debug\net5.0\ref\1914775_DinhTrongDat_Lab01.dll
+E:\NAM3_KY2\lap-trinh-mang\Labs\1914775_DinhTrongDat_Lab01\obj\Debug\net5.0\1914775_DinhTrongDat_Lab01.pdb
+E:\NAM3_KY2\lap-trinh-mang\Labs\1914775_DinhTrongDat_Lab01\obj\Debug\net5.0\1914775_DinhTrongDat_Lab01.genruntimeconfig.cache
