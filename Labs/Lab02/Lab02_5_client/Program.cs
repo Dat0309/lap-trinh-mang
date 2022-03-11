@@ -44,10 +44,10 @@ namespace Lab02_5_client
             while (true)
             {
 
-                Console.Write("Enter message (press q to quit): ");
+                Console.Write("Enter message (press 'exit' to quit): ");
                 string str = Console.ReadLine();
 
-                if (str.Equals("q"))
+                if (str.Equals("exit"))
                 {
                     Console.WriteLine("DA NGAT KET NOI TOI SERVER");
                     break;
