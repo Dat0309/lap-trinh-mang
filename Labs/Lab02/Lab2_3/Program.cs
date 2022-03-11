@@ -17,7 +17,16 @@ namespace Lab2_3
             Console.WriteLine("DANG KET NOI VOI SERVER");
             Console.WriteLine("==================================");
 
-            serverSocket.Connect(serverEndPoint);
+            try
+            {
+                serverSocket.Connect(serverEndPoint);
+
+            }
+            catch (SocketException ex)
+            {
+                Console.WriteLine(ex.Message);
+                return;
+            }
 
             if (serverSocket.Connected)
             {
