@@ -1,0 +1,16 @@
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab03\Lab03_3_client\bin\Debug\net5.0\Lab03_3_client.exe
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab03\Lab03_3_client\bin\Debug\net5.0\Lab03_3_client.deps.json
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab03\Lab03_3_client\bin\Debug\net5.0\Lab03_3_client.runtimeconfig.json
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab03\Lab03_3_client\bin\Debug\net5.0\Lab03_3_client.runtimeconfig.dev.json
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab03\Lab03_3_client\bin\Debug\net5.0\Lab03_3_client.dll
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab03\Lab03_3_client\bin\Debug\net5.0\ref\Lab03_3_client.dll
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab03\Lab03_3_client\bin\Debug\net5.0\Lab03_3_client.pdb
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab03\Lab03_3_client\obj\Debug\net5.0\Lab03_3_client.csproj.AssemblyReference.cache
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab03\Lab03_3_client\obj\Debug\net5.0\Lab03_3_client.GeneratedMSBuildEditorConfig.editorconfig
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab03\Lab03_3_client\obj\Debug\net5.0\Lab03_3_client.AssemblyInfoInputs.cache
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab03\Lab03_3_client\obj\Debug\net5.0\Lab03_3_client.AssemblyInfo.cs
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab03\Lab03_3_client\obj\Debug\net5.0\Lab03_3_client.csproj.CoreCompileInputs.cache
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab03\Lab03_3_client\obj\Debug\net5.0\Lab03_3_client.dll
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab03\Lab03_3_client\obj\Debug\net5.0\ref\Lab03_3_client.dll
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab03\Lab03_3_client\obj\Debug\net5.0\Lab03_3_client.pdb
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab03\Lab03_3_client\obj\Debug\net5.0\Lab03_3_client.genruntimeconfig.cache
