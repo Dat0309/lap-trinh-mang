@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPListner", "..\TCPListner
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDPClientA", "..\UDPClientA\UDPClientA.csproj", "{A944C08C-BFE1-4F23-B8A3-84EE3BD14194}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDPClientB", "..\UDPClientB\UDPClientB.csproj", "{72EF2CC2-6F54-419A-B6A7-EC0569CB6081}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDPServer", "..\UDPServer\UDPServer.csproj", "{F98C904E-548F-415B-89B5-BB4F8C7DE454}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,10 @@ Global
 		{A944C08C-BFE1-4F23-B8A3-84EE3BD14194}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A944C08C-BFE1-4F23-B8A3-84EE3BD14194}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A944C08C-BFE1-4F23-B8A3-84EE3BD14194}.Release|Any CPU.Build.0 = Release|Any CPU
-		{72EF2CC2-6F54-419A-B6A7-EC0569CB6081}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{72EF2CC2-6F54-419A-B6A7-EC0569CB6081}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{72EF2CC2-6F54-419A-B6A7-EC0569CB6081}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{72EF2CC2-6F54-419A-B6A7-EC0569CB6081}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F98C904E-548F-415B-89B5-BB4F8C7DE454}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F98C904E-548F-415B-89B5-BB4F8C7DE454}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F98C904E-548F-415B-89B5-BB4F8C7DE454}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F98C904E-548F-415B-89B5-BB4F8C7DE454}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,16 @@
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab04\UDPClientA\obj\Debug\net5.0\UDPClientA.csproj.AssemblyReference.cache
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab04\UDPClientA\obj\Debug\net5.0\UDPClientA.GeneratedMSBuildEditorConfig.editorconfig
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab04\UDPClientA\obj\Debug\net5.0\UDPClientA.AssemblyInfoInputs.cache
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab04\UDPClientA\obj\Debug\net5.0\UDPClientA.AssemblyInfo.cs
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab04\UDPClientA\obj\Debug\net5.0\UDPClientA.csproj.CoreCompileInputs.cache
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab04\UDPClientA\bin\Debug\net5.0\UDPClientA.exe
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab04\UDPClientA\bin\Debug\net5.0\UDPClientA.deps.json
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab04\UDPClientA\bin\Debug\net5.0\UDPClientA.runtimeconfig.json
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab04\UDPClientA\bin\Debug\net5.0\UDPClientA.runtimeconfig.dev.json
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab04\UDPClientA\bin\Debug\net5.0\UDPClientA.dll
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab04\UDPClientA\bin\Debug\net5.0\ref\UDPClientA.dll
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab04\UDPClientA\bin\Debug\net5.0\UDPClientA.pdb
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab04\UDPClientA\obj\Debug\net5.0\UDPClientA.dll
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab04\UDPClientA\obj\Debug\net5.0\ref\UDPClientA.dll
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab04\UDPClientA\obj\Debug\net5.0\UDPClientA.pdb
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab04\UDPClientA\obj\Debug\net5.0\UDPClientA.genruntimeconfig.cache
