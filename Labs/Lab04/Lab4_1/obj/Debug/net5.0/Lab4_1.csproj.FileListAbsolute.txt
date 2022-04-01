@@ -1,0 +1,16 @@
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab04\Lab4_1\bin\Debug\net5.0\Lab4_1.exe
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab04\Lab4_1\bin\Debug\net5.0\Lab4_1.deps.json
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab04\Lab4_1\bin\Debug\net5.0\Lab4_1.runtimeconfig.json
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab04\Lab4_1\bin\Debug\net5.0\Lab4_1.runtimeconfig.dev.json
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab04\Lab4_1\bin\Debug\net5.0\Lab4_1.dll
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab04\Lab4_1\bin\Debug\net5.0\ref\Lab4_1.dll
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab04\Lab4_1\bin\Debug\net5.0\Lab4_1.pdb
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab04\Lab4_1\obj\Debug\net5.0\Lab4_1.csproj.AssemblyReference.cache
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab04\Lab4_1\obj\Debug\net5.0\Lab4_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab04\Lab4_1\obj\Debug\net5.0\Lab4_1.AssemblyInfoInputs.cache
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab04\Lab4_1\obj\Debug\net5.0\Lab4_1.AssemblyInfo.cs
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab04\Lab4_1\obj\Debug\net5.0\Lab4_1.csproj.CoreCompileInputs.cache
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab04\Lab4_1\obj\Debug\net5.0\Lab4_1.dll
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab04\Lab4_1\obj\Debug\net5.0\ref\Lab4_1.dll
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab04\Lab4_1\obj\Debug\net5.0\Lab4_1.pdb
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab04\Lab4_1\obj\Debug\net5.0\Lab4_1.genruntimeconfig.cache
