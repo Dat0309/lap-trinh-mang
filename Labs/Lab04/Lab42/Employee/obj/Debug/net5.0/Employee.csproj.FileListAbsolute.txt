@@ -1,0 +1,16 @@
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab04\Lab42\Employee\bin\Debug\net5.0\Employee.exe
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab04\Lab42\Employee\bin\Debug\net5.0\Employee.deps.json
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab04\Lab42\Employee\bin\Debug\net5.0\Employee.runtimeconfig.json
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab04\Lab42\Employee\bin\Debug\net5.0\Employee.runtimeconfig.dev.json
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab04\Lab42\Employee\bin\Debug\net5.0\Employee.dll
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab04\Lab42\Employee\bin\Debug\net5.0\ref\Employee.dll
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab04\Lab42\Employee\bin\Debug\net5.0\Employee.pdb
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab04\Lab42\Employee\obj\Debug\net5.0\Employee.csproj.AssemblyReference.cache
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab04\Lab42\Employee\obj\Debug\net5.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab04\Lab42\Employee\obj\Debug\net5.0\Employee.AssemblyInfoInputs.cache
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab04\Lab42\Employee\obj\Debug\net5.0\Employee.AssemblyInfo.cs
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab04\Lab42\Employee\obj\Debug\net5.0\Employee.csproj.CoreCompileInputs.cache
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab04\Lab42\Employee\obj\Debug\net5.0\Employee.dll
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab04\Lab42\Employee\obj\Debug\net5.0\ref\Employee.dll
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab04\Lab42\Employee\obj\Debug\net5.0\Employee.pdb
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab04\Lab42\Employee\obj\Debug\net5.0\Employee.genruntimeconfig.cache

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "92255a8a-eb24-4b69-912f-02b6150b16c4": {
+      "ProjectGuid": "92255a8a-eb24-4b69-912f-02b6150b16c4",
+      "DisplayName": "Employee",
+      "ColorIndex": 0
+    },
+    "d756d89b-1ea1-4018-b2d3-320f4add7dd6": {
+      "ProjectGuid": "d756d89b-1ea1-4018-b2d3-320f4add7dd6",
+      "DisplayName": "UDPClient",
+      "ColorIndex": 1
+    },
+    "e80f085b-7899-44a9-9cb7-a86943a906e2": {
+      "ProjectGuid": "e80f085b-7899-44a9-9cb7-a86943a906e2",
+      "DisplayName": "UDPServer",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
