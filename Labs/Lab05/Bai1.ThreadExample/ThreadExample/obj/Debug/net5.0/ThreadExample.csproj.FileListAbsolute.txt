@@ -1,0 +1,16 @@
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab05\Bai1.ThreadExample\ThreadExample\bin\Debug\net5.0\ThreadExample.exe
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab05\Bai1.ThreadExample\ThreadExample\bin\Debug\net5.0\ThreadExample.deps.json
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab05\Bai1.ThreadExample\ThreadExample\bin\Debug\net5.0\ThreadExample.runtimeconfig.json
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab05\Bai1.ThreadExample\ThreadExample\bin\Debug\net5.0\ThreadExample.runtimeconfig.dev.json
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab05\Bai1.ThreadExample\ThreadExample\bin\Debug\net5.0\ThreadExample.dll
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab05\Bai1.ThreadExample\ThreadExample\bin\Debug\net5.0\ref\ThreadExample.dll
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab05\Bai1.ThreadExample\ThreadExample\bin\Debug\net5.0\ThreadExample.pdb
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab05\Bai1.ThreadExample\ThreadExample\obj\Debug\net5.0\ThreadExample.csproj.AssemblyReference.cache
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab05\Bai1.ThreadExample\ThreadExample\obj\Debug\net5.0\ThreadExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab05\Bai1.ThreadExample\ThreadExample\obj\Debug\net5.0\ThreadExample.AssemblyInfoInputs.cache
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab05\Bai1.ThreadExample\ThreadExample\obj\Debug\net5.0\ThreadExample.AssemblyInfo.cs
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab05\Bai1.ThreadExample\ThreadExample\obj\Debug\net5.0\ThreadExample.csproj.CoreCompileInputs.cache
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab05\Bai1.ThreadExample\ThreadExample\obj\Debug\net5.0\ThreadExample.dll
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab05\Bai1.ThreadExample\ThreadExample\obj\Debug\net5.0\ref\ThreadExample.dll
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab05\Bai1.ThreadExample\ThreadExample\obj\Debug\net5.0\ThreadExample.pdb
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab05\Bai1.ThreadExample\ThreadExample\obj\Debug\net5.0\ThreadExample.genruntimeconfig.cache
