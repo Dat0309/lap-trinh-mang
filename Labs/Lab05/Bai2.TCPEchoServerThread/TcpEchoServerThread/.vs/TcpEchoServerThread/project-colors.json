@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9385df7b-0cc3-4e1d-8b1a-73babfed3299": {
+      "ProjectGuid": "9385df7b-0cc3-4e1d-8b1a-73babfed3299",
+      "DisplayName": "TcpEchoServerThread",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,15 @@
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab05\Bai3.TCPClient\TcpEchoClient\bin\Debug\net5.0\TcpEchoClient.exe
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab05\Bai3.TCPClient\TcpEchoClient\bin\Debug\net5.0\TcpEchoClient.deps.json
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab05\Bai3.TCPClient\TcpEchoClient\bin\Debug\net5.0\TcpEchoClient.runtimeconfig.json
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab05\Bai3.TCPClient\TcpEchoClient\bin\Debug\net5.0\TcpEchoClient.runtimeconfig.dev.json
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab05\Bai3.TCPClient\TcpEchoClient\bin\Debug\net5.0\TcpEchoClient.dll
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab05\Bai3.TCPClient\TcpEchoClient\bin\Debug\net5.0\ref\TcpEchoClient.dll
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab05\Bai3.TCPClient\TcpEchoClient\bin\Debug\net5.0\TcpEchoClient.pdb
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab05\Bai3.TCPClient\TcpEchoClient\obj\Debug\net5.0\TcpEchoClient.GeneratedMSBuildEditorConfig.editorconfig
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab05\Bai3.TCPClient\TcpEchoClient\obj\Debug\net5.0\TcpEchoClient.AssemblyInfoInputs.cache
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab05\Bai3.TCPClient\TcpEchoClient\obj\Debug\net5.0\TcpEchoClient.AssemblyInfo.cs
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab05\Bai3.TCPClient\TcpEchoClient\obj\Debug\net5.0\TcpEchoClient.csproj.CoreCompileInputs.cache
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab05\Bai3.TCPClient\TcpEchoClient\obj\Debug\net5.0\TcpEchoClient.dll
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab05\Bai3.TCPClient\TcpEchoClient\obj\Debug\net5.0\ref\TcpEchoClient.dll
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab05\Bai3.TCPClient\TcpEchoClient\obj\Debug\net5.0\TcpEchoClient.pdb
+E:\NAM3_KY2\lap-trinh-mang\Labs\Lab05\Bai3.TCPClient\TcpEchoClient\obj\Debug\net5.0\TcpEchoClient.genruntimeconfig.cache
