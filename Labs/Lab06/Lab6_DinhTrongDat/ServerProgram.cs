@@ -23,6 +23,7 @@ namespace Lab6_DinhTrongDat
 				this.serverIP = value;
 			}
 		}
+
 		private int port;
 		public int Port
 		{
@@ -49,6 +50,7 @@ namespace Lab6_DinhTrongDat
 		//Số byte thực sự nhận được
 		int byteReceive = 0;
 		string stringReceive = "";
+
 		public ServerProgram(IPAddress ServerIP, int Port)
 		{
 			this.ServerIP = ServerIP;

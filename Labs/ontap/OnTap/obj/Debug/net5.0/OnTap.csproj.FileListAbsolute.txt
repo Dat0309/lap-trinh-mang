@@ -1,0 +1,16 @@
+E:\NAM3_KY2\lap-trinh-mang\Labs\ontap\OnTap\bin\Debug\net5.0\OnTap.exe
+E:\NAM3_KY2\lap-trinh-mang\Labs\ontap\OnTap\bin\Debug\net5.0\OnTap.deps.json
+E:\NAM3_KY2\lap-trinh-mang\Labs\ontap\OnTap\bin\Debug\net5.0\OnTap.runtimeconfig.json
+E:\NAM3_KY2\lap-trinh-mang\Labs\ontap\OnTap\bin\Debug\net5.0\OnTap.runtimeconfig.dev.json
+E:\NAM3_KY2\lap-trinh-mang\Labs\ontap\OnTap\bin\Debug\net5.0\OnTap.dll
+E:\NAM3_KY2\lap-trinh-mang\Labs\ontap\OnTap\bin\Debug\net5.0\ref\OnTap.dll
+E:\NAM3_KY2\lap-trinh-mang\Labs\ontap\OnTap\bin\Debug\net5.0\OnTap.pdb
+E:\NAM3_KY2\lap-trinh-mang\Labs\ontap\OnTap\obj\Debug\net5.0\OnTap.csproj.AssemblyReference.cache
+E:\NAM3_KY2\lap-trinh-mang\Labs\ontap\OnTap\obj\Debug\net5.0\OnTap.GeneratedMSBuildEditorConfig.editorconfig
+E:\NAM3_KY2\lap-trinh-mang\Labs\ontap\OnTap\obj\Debug\net5.0\OnTap.AssemblyInfoInputs.cache
+E:\NAM3_KY2\lap-trinh-mang\Labs\ontap\OnTap\obj\Debug\net5.0\OnTap.AssemblyInfo.cs
+E:\NAM3_KY2\lap-trinh-mang\Labs\ontap\OnTap\obj\Debug\net5.0\OnTap.csproj.CoreCompileInputs.cache
+E:\NAM3_KY2\lap-trinh-mang\Labs\ontap\OnTap\obj\Debug\net5.0\OnTap.dll
+E:\NAM3_KY2\lap-trinh-mang\Labs\ontap\OnTap\obj\Debug\net5.0\ref\OnTap.dll
+E:\NAM3_KY2\lap-trinh-mang\Labs\ontap\OnTap\obj\Debug\net5.0\OnTap.pdb
+E:\NAM3_KY2\lap-trinh-mang\Labs\ontap\OnTap\obj\Debug\net5.0\OnTap.genruntimeconfig.cache
