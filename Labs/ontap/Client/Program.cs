@@ -8,28 +8,17 @@ namespace Client
     {
         static void Main(string[] args)
         {
-            int id;
-            string name;
-            double price;
 
-            Console.WriteLine("Nhap ID Sach: ");
-            id = Int32.Parse(Console.ReadLine());
-            Console.WriteLine("Nhap Ten Sach: ");
-            name = Console.ReadLine();
-            Console.WriteLine("Nhap Gia Sach: ");
-            price = Double.Parse(Console.ReadLine());
-
-            OnTap.Sach sach = new OnTap.Sach(id, name, price);
+            OnTap.Sach sach = new OnTap.Sach();
+            sach.ImportBook();
 
             TcpClient tcpClient;
-
             try
             {
-                tcpClient = new TcpClient("127.0.0.1", 9000);
-            }catch (Exception ex)
+                tcpClient = new TcpClient("127.0.0.1",9000);
+            }catch(Exception ex)
             {
-                Console.WriteLine("Can't connecty to server");
-                Console.WriteLine("Error: " + ex.Message);
+                Console.WriteLine(ex.Message);
                 return;
             }
 
@@ -37,11 +26,11 @@ namespace Client
             byte[] data = sach.GetBytes();
             int size = sach.Size;
             byte[] packageSize = new byte[2];
-            Console.WriteLine("Size of package = {0}", size);
-
             packageSize = BitConverter.GetBytes(size);
-            stream.Write(packageSize, 0, 2);
 
+            Console.WriteLine("Package size: {0}", size);
+
+            stream.Write(packageSize, 0, 2);
             stream.Write(data, 0, size);
 
             stream.Flush();
@@ -49,6 +38,7 @@ namespace Client
             tcpClient.Close();
 
             Console.ReadKey();
+
         }
     }
 }

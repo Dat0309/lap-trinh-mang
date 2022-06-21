@@ -9,25 +9,26 @@ namespace OnTap
 {
     public class Sach
     {
-        private int nameSize;
-        private string name;
-        public string Name { get=>name; set { name = value; nameSize = name.Length; } }
-
-        public int Size { get; set; }
-
         public int ID { get; set; }
         public double Price { get; set; }
+        public int Size { get; set; }
 
-        public Sach()
+        private int nameSize;
+        private string name;
+        public string Name
         {
+            get => name;
+            set { name = value; nameSize = name.Length; }
         }
 
-        public Sach(int iD, string name, double price)
+        public Sach(int iD, double price, string name)
         {
             ID = iD;
-            Name = name;
             Price = price;
+            Name = name;
         }
+
+        public Sach() { }
 
         public Sach(byte[] data)
         {
@@ -37,11 +38,12 @@ namespace OnTap
 
             nameSize = BitConverter.ToInt32(data, place);
             place += 4;
-            Name = Encoding.ASCII.GetString(data, place, nameSize);
+            name = Encoding.ASCII.GetString(data, place, nameSize);
             place += nameSize;
 
             Price = BitConverter.ToDouble(data, place);
             place += 8;
+
             Size = place;
         }
 
@@ -52,7 +54,7 @@ namespace OnTap
 
             Buffer.BlockCopy(BitConverter.GetBytes(ID), 0, data, place, 4);
             place += 4;
-
+            
             Buffer.BlockCopy(BitConverter.GetBytes(nameSize), 0, data, place, 4);
             place += 4;
             Buffer.BlockCopy(Encoding.ASCII.GetBytes(Name), 0, data, place, nameSize);
@@ -60,17 +62,18 @@ namespace OnTap
 
             Buffer.BlockCopy(BitConverter.GetBytes(Price), 0, data, place, 8);
             place += 8;
+
             Size = place;
             return data;
         }
 
         public void ImportBook()
         {
-            Console.WriteLine("Ma sach: ");
+            Console.WriteLine("Nhap ID sach: ");
             ID = Int32.Parse(Console.ReadLine());
-            Console.WriteLine("Ten sach: ");
+            Console.WriteLine("Nhap ten sach: ");
             Name = Console.ReadLine();
-            Console.WriteLine("Gia sach: ");
+            Console.WriteLine("Nhap gia sach: ");
             Price = Double.Parse(Console.ReadLine());
         }
 
@@ -80,16 +83,7 @@ namespace OnTap
             sb.AppendLine(String.Format("ID: {0}", ID));
             sb.AppendLine(String.Format("Ten sach: {0}", Name));
             sb.AppendLine(String.Format("Gia sach: {0}", Price));
-
             return sb.ToString();
-        }
-
-        public void WriteToFile(string path)
-        {
-            using(var write = File.AppendText(path))
-            {
-                write.Write(this.ToString());
-            }
         }
     }
 }

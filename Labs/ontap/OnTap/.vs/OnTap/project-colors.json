@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f9d6d9c0-f5e0-4ec1-8096-5bbb96c6d981": {
+      "ProjectGuid": "f9d6d9c0-f5e0-4ec1-8096-5bbb96c6d981",
+      "DisplayName": "OnTap",
+      "ColorIndex": 0
+    },
+    "ff4fcaab-7dee-4c2b-b052-6b99c85aa9f7": {
+      "ProjectGuid": "ff4fcaab-7dee-4c2b-b052-6b99c85aa9f7",
+      "DisplayName": "Client",
+      "ColorIndex": 1
+    },
+    "450a3648-d0f7-43c7-84b9-96743a5d97c2": {
+      "ProjectGuid": "450a3648-d0f7-43c7-84b9-96743a5d97c2",
+      "DisplayName": "Server",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

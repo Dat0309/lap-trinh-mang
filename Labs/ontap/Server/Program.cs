@@ -13,16 +13,16 @@ namespace Server
 
             TcpListener server = new TcpListener(IPAddress.Any, 9000);
             server.Start();
-            Console.WriteLine("Waiting for a connection...");
+            Console.WriteLine("Waiting for connect...");
 
             TcpClient client = server.AcceptTcpClient();
-            Console.WriteLine("Connected succesfully");
+            Console.WriteLine("Connect successfully");
             NetworkStream stream = client.GetStream();
 
             byte[] size = new byte[2];
-            byteReceived = stream.Read(size, 0, 2);
-            int packageSize = BitConverter.ToInt16(size, 0);
-            Console.WriteLine("The size of package: {0}", packageSize);
+            byteReceived = stream.Read(size,0,2);
+            int packageSize = BitConverter.ToInt16(size,0);
+            Console.WriteLine("Package size: {0}", packageSize);
 
             byteReceived = stream.Read(data, 0, packageSize);
             OnTap.Sach sach = new OnTap.Sach(data);
@@ -32,7 +32,7 @@ namespace Server
             client.Close();
             server.Stop();
 
-            Console.ReadLine();
+            Console.ReadKey();
         }
     }
 }
